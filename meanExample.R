@@ -1,3 +1,9 @@
+#This is not my code.  
+#This is just a copy of the example code that I used for testing/learning purposes
+#Please ignore for purposes of review of my work.  All of my work is located in the 
+#source file cacheMatrix.R
+
+
 makeVector <- function(x = numeric()) {
         m <- NULL
         set <- function(y) {
